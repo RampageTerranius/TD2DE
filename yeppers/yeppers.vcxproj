@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{6129DE17-EEBB-4427-B4A5-866B26DCBB0D}</ProjectGuid>
+    <RootNamespace>yeppers</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>F:\programming\coding\yeppers\yeppers\TD2DE;E:\Programming Librarys\simpleini;f:\programming\librarys\simpleini;f:\programming\librarys\SDL2-2.0.4\include;E:\programming\librarys\SDL2-2.0.4\include;E:\programming\librarys\SDL2_image-2.0.1\include;f:\programming\librarys\SDL2_ttf-devel-2.0.12-VC\SDL2_ttf-2.0.12\include;E:\programming\librarys\SDL2_ttf-devel-2.0.12-VC\SDL2_ttf-2.0.12\include;f:\programming\librarys\SDL2_mixer-devel-2.0.0-VC\SDL2_mixer-2.0.0\include;E:\programming\librarys\SDL2_mixer-devel-2.0.0-VC\SDL2_mixer-2.0.0\include;f:\programming\librarys\SDL2_image-2.0.1\include;$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LibraryPath>f:\programming\librarys\SDL2_ttf-devel-2.0.12-VC\SDL2_ttf-2.0.12\lib\x86;E:\programming\librarys\SDL2_ttf-devel-2.0.12-VC\SDL2_ttf-2.0.12\lib\x86;f:\programming\librarys\SDL2_mixer-devel-2.0.0-VC\SDL2_mixer-2.0.0\lib\x86;E:\programming\librarys\SDL2_mixer-devel-2.0.0-VC\SDL2_mixer-2.0.0\lib\x86;f:\programming\librarys\SDL2_image-2.0.1\lib\x86;f:\programming\librarys\SDL2-2.0.4\lib\x86;E:\programming\librarys\SDL2-2.0.4\lib\x86;E:\programming\librarys\SDL2_image-2.0.1\lib\x86;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IncludePath>D:\programming\librarys\simpleini;D:\programming\librarys\SDL2-2.0.4\include;D:\programming\librarys\SDL2_image-2.0.1\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\programming\librarys\SDL2-2.0.4\lib\x86;D:\programming\librarys\SDL2_image-2.0.1\lib\x86;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <AdditionalDependencies>SDL2.lib;SDL2main.lib;SDL2_image.lib;SDL2_mixer.lib;SDL2_ttf.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Cleanup.h" />
+    <ClInclude Include="CMD.h" />
+    <ClInclude Include="ExtraFunctions.h" />
+    <ClInclude Include="GameDataHandle.h" />
+    <ClInclude Include="Initialize.h" />
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="PrintScreen.h" />
+    <ClInclude Include="TD2DE\Audio_Class.h" />
+    <ClInclude Include="TD2DE\Button_Class.h" />
+    <ClInclude Include="TD2DE\Debug.h" />
+    <ClInclude Include="TD2DE\Engine_Class.h" />
+    <ClInclude Include="TD2DE\Entity_Class.h" />
+    <ClInclude Include="TD2DE\Event_Handle.h" />
+    <ClInclude Include="TD2DE\Keyboard_Class.h" />
+    <ClInclude Include="TD2DE\Mouse_Class.h" />
+    <ClInclude Include="TD2DE\Object_Class.h" />
+    <ClInclude Include="TD2DE\Render_Class.h" />
+    <ClInclude Include="TD2DE\Sprite_Class.h" />
+    <ClInclude Include="TD2DE\TD2DE.h" />
+    <ClInclude Include="TD2DE\TD2DE_Main.h" />
+    <ClInclude Include="TD2DE\Texture_Class.h" />
+    <ClInclude Include="TD2DE\Texture_Methods.h" />
+    <ClInclude Include="TD2DE\Time_Class.h" />
+    <ClInclude Include="TD2DE\TTF_Class.h" />
+    <ClInclude Include="TD2DE\UI_Class.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="To do - game.txt">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="TD2DE.txt">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </Text>
+    <Text Include="to do - TD2DE.txt">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </Text>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

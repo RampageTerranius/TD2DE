@@ -1,0 +1,15 @@
+DONE	100%movement and handling player momentum
+STARTED	10%	classes enums etc for dealing with menus
+DONE	100%bullet physics and being able to shoot
+NO		0%	take damage from bullets
+NO		0%	able to die and respawn
+NO		0%	make an ai
+STARTED	25%	Support for saving settings to a file
+NO		0%	support for multiple players
+
+MAJOR TODO
+Using simpleini https://github.com/brofield/simpleini REMEMBER TO PUT THE LICENCE FILE FOR IT IN FOLDER AND TO CREDIT THE CREATOR
+
+MINOR TODO
+physics may need to be slightly shifted, particularily for player handle as it seems to be a little bit slippery currently
+possibly convert some of the forward momentum into side momentum as well to make it seem liek its still moving in a certain direction

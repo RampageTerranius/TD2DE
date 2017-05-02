@@ -1,0 +1,2560 @@
+TD2DE - Terranius Designs 2D Engine v0.11a
+Time at launch: Thu Mar 16 12:27:11 2017
+
+Info: Video initialization success!
+Info: Audio initialization success!
+Info: Mixer sucessfully initialized at settings, 22050, 2, 2048
+Info: Timer initialization success!
+Info: Image Loading engine initialization success!
+Info: TTF Engine initialization success!
+Info: Primary Window creation success!
+Info: Primary Renderer creation success!
+new value in Entity
+before - c:0 s:0 ms:38347922
+after - c:1 s:1 ms:38347922
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: LoadTexture(): Image loaded under the name: player
+Audio chunk file successfully loaded: sounds/156895__halgrimm__a-shot.wav
+new value in UI
+before - c:0 s:0 ms:48806446
+after - c:1 s:1 ms:48806446
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: LoadTexture(): Image loaded under the name: ShotTimer
+new value in UI
+before - c:1 s:1 ms:48806446
+after - c:2 s:2 ms:48806446
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: LoadTexture(): Image loaded under the name: ShotTimerBorder
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: LoadTexture(): Image loaded under the name: buttonup.png
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: LoadTexture(): Image loaded under the name: buttonover.png
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: LoadTexture(): Image loaded under the name: buttondown.png
+new value in BUTTON
+before - c:0 s:0 ms:48806446
+after - c:1 s:1 ms:48806446
+Main.CPP: While loop begin
+EventHandle.h: EventHandle begin
+Warning: EventHandle-PollEvent: Unknown event type: 4352
+Warning: EventHandle-PollEvent: Unknown event type: 4352
+Warning: EventHandle-PollEvent: Unknown event type: 512
+Warning: EventHandle-PollEvent: Unknown event type: 512
+Warning: EventHandle-PollEvent: Unknown event type: 770
+Warning: EventHandle-PollEvent: Unknown event type: 512
+Warning: EventHandle-PollEvent: Unknown event type: 512
+Warning: EventHandle-PollEvent: Unknown event type: 512
+Warning: EventHandle-PollEvent: Unknown event type: 512
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+new value in TTF
+before - c:1 s:1 ms:38347922
+after - c:1 s:1 ms:38347922
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully Created under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 0
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 0 successfully saved under name '0
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '0'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 7
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully Created under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+Warning: EventHandle-PollEvent: Unknown event type: 512
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 61
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 61 successfully saved under name '61
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '61'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 8
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully Created under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+EventHandle.h: EventHandle begin
+Warning: EventHandle-PollEvent: Unknown event type: 512
+EventHandle.h: EventHandle end
+GameDataHandle.h : GameDataHandle begin
+Warning: TextureClass-cTexture::FreeTexture: Texture is already NULL
+Info: TextureClass-SaveTexture: texture 62 successfully saved under name '62
+Info: TD2DE_CreateTFF: sucessfully created ttf: Xolonium-Regular.ttf, '62'
+GameDataHandle.h : MomentumHandle begin
+GameDataHandle.h : MomentumHandle end
+GameDataHandle.h : GameDataHandle end
+PrintScreen.h: PrintScreen begin
+size: 9
+PrintScreen.h: PrintScreen end
+TimeHandle.h: TimeHandle begin
+fps: 62
+TimeHandle.h: TimeHandle end
+Main.CPP: While loop end
+Cleanup.h: Cleanup begin
+Error: Cleanup-DestroyRender:
+Error: Cleanup-DestroyWindow:

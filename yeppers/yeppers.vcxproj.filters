@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\TD2DE">
+      <UniqueIdentifier>{b4060e3f-0781-42f3-9b33-6fd374e28e44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\TD2DE\Object">
+      <UniqueIdentifier>{912d4414-2778-4813-a26c-58f3765858cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\TD2DE\Image">
+      <UniqueIdentifier>{02e2362f-5d16-40c7-a05d-2afb52edc9eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\TD2DE\Event handle">
+      <UniqueIdentifier>{3bce0b09-980b-4765-95ea-98f07a4472c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\TD2DE\Debug">
+      <UniqueIdentifier>{3b971da2-46c8-4679-842f-2f96f7c75608}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cleanup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Initialize.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameDataHandle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PrintScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ExtraFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TD2DE\Engine_Class.h">
+      <Filter>Header Files\TD2DE</Filter>
+    </ClInclude>
+    <ClInclude Include="TD2DE\Render_Class.h">
+      <Filter>Header Files\TD2DE</Filter>
+    </ClInclude>
+    <ClInclude Include="TD2DE\TD2DE.h">
+      <Filter>Header Files\TD2DE</Filter>
+    </ClInclude>
+    <ClInclude Include="TD2DE\TD2DE_Main.h">
+      <Filter>Header Files\TD2DE</Filter>
+    </ClInclude>
+    <ClInclude Include="TD2DE\Time_Class.h">
+      <Filter>Header Files\TD2DE</Filter>
+    </ClInclude>
+    <ClInclude Include="TD2DE\Texture_Class.h">
+      <Filter>Header Files\TD2DE\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="TD2DE\Button_Class.h">
+      <Filter>Header Files\TD2DE\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="TD2DE\Object_Class.h">
+      <Filter>Header Files\TD2DE\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="TD2DE\Sprite_Class.h">
+      <Filter>Header Files\TD2DE\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="TD2DE\UI_Class.h">
+      <Filter>Header Files\TD2DE\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="TD2DE\Entity_Class.h">
+      <Filter>Header Files\TD2DE\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="TD2DE\Texture_Methods.h">
+      <Filter>Header Files\TD2DE\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="TD2DE\Keyboard_Class.h">
+      <Filter>Header Files\TD2DE\Event handle</Filter>
+    </ClInclude>
+    <ClInclude Include="TD2DE\Event_Handle.h">
+      <Filter>Header Files\TD2DE\Event handle</Filter>
+    </ClInclude>
+    <ClInclude Include="TD2DE\Mouse_Class.h">
+      <Filter>Header Files\TD2DE\Event handle</Filter>
+    </ClInclude>
+    <ClInclude Include="TD2DE\Audio_Class.h">
+      <Filter>Header Files\TD2DE</Filter>
+    </ClInclude>
+    <ClInclude Include="TD2DE\Debug.h">
+      <Filter>Header Files\TD2DE\Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="CMD.h">
+      <Filter>Header Files\TD2DE\Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="TD2DE\TTF_Class.h">
+      <Filter>Header Files\TD2DE\Object</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="to do - TD2DE.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="TD2DE.txt">
+      <Filter>Header Files\TD2DE\Debug</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="To do - game.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

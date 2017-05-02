@@ -1,0 +1,40 @@
+TD2DE Development State
+
+DONE	100% hardware rendering (done using 2d textures)
+NO		0%	 software rendering option for lower end devices (using surface blitting instead of texture rendering)
+DONE	90%	 automatically handling loading images and blitting them (mostly done, may have to make functions to accept things other then .png format at some point)
+DONE	100% setup textue rendering to be automatic and a layering system
+DONE	100% Handling rotation of objects
+STARTED	5%	 Sprite class for easy use of sprites, will need to inherit the base texture class and add extra stuff ontop
+DONE	90%  handling all keyboard buttons that could be pressed (may require more at later time but basically done now)
+NO		0%	 Handling controller input 
+DONE	90%  mouse handling and use with button class (automatic detection of a clicked user created button) more may need to be doen in future
+STARTED	75%	 timing system for internal engine (internal loop time limit)
+DONE	100% frame rate limiter and cap
+DONE	100% classes based around controlling objects (players, enemys etc)
+DONE    100% convert existing momentum handle to work for ALL of the object class
+DONE	95%	 class based around control and creation of buttons (menu buttons and the like) more will be requried for the future but in its current state its fully useable
+DONE	95%  Add transparency layer for image loading/rendering
+DONE	90%	 ttf text working (possible fixes needed but is functioning currently)
+NO		0%	 console for entering commands into the engine, will require ttf to be working first
+DONE	95%	 audio file loading and playing
+NO		0%	 lighting/shadow engine
+NO		0%	 Conversion of current entity/ui/button classes all to use entity as the base (possibly using a linked list as well, will require being able to use multiple classes in same array)
+
+
+EXTREMELY MAJOR TODO
+rebuild of texture/object rendering is in progress requires object list creation and deleteion
+check if the vectors for each object type are creating blank spots, possibe but shouldnt be happening
+change ObjList to use a list isntead of using a vector
+
+MAJOR TODO
+Button class: create a propper event handle procedure instead of requiring the user to ask what state the button is in
+Engine class: engine fps seems to be slightly off (limited at 60 its hitting 64) it could be a issue with the fps checker OR the engine really is running faster then it should...
+Texture Class: rendering is currently somewhat slow, find out the cause and fix it (may be trying to load the texture each time its used?)
+maxlayer system is currently not working corectly (always stuck at 1)
+change of layer system is required, limit to 3, 0 for back 1 for middle 2 for front shoudl work fine (ui locked to 2)
+
+MINOR TODO
+keyboard class: enter keystroke is using sdlk_return currently and not sure this is what key im after
+
+image rotation has a slight antialiasing to the image (semi transparent border around image) when on linear or higher setting. fix this at a later point, may require coding own aliasing or modifying the transperancy layer
